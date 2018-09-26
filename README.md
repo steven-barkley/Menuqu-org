@@ -1,2 +1,2 @@
-# Menuqu-org
+# Menuqu.org
 Foundation for hierarchical alignment
